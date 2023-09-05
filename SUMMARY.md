@@ -2,18 +2,26 @@
 
 * [BSN 3G](README.md)
 
-## Category I
+## Information
 
-* [Rules & Regulations](category-i/rules-and-regulations.md)
-* [BSN 3G Class Officers](category-i/bsn-3g-class-officers.md)
-* [Common Rules & Guidelines](category-i/common-rules-and-guidelines.md)
+* [Rules & Regulations](information/rules-and-regulations.md)
+* [BSN 3G Class Officers](information/bsn-3g-class-officers.md)
+* [Common Rules & Guidelines](information/common-rules-and-guidelines.md)
 
-## Category II
+## Miscellaneous
 
-* [Letter Formats](category-ii/letter-formats.md)
-* [Study-aid Repository Guidelines](category-ii/study-aid-repository-guidelines.md)
-* [Peer Recognition Qualifications](category-ii/peer-recognition-qualifications.md)
+* [Letter Formats](miscellaneous/letter-formats.md)
+* [Study-Aid Repository Guidelines](miscellaneous/study-aid-repository-guidelines.md)
+* [Peer Recognition Qualifications](miscellaneous/peer-recognition-qualifications.md)
+* [Class Committees Guide](miscellaneous/class-committees-guide.md)
 
-## Category III
+## Discord Server Guidelines
 
-* [Discord Server Guidelines](category-iii/discord-server-guidelines.md)
+* [Discord Basic Guides](discord-server-guidelines/discord-basic-guides.md)
+* [Discord General Guide](discord-server-guidelines/discord-general-guide.md)
+
+## Reports, Complaints, & Feedbacks
+
+* [Reports & Complaints Form](reports-complaints-and-feedbacks/reports-and-complaints-form.md)
+* [Feedback Form](reports-complaints-and-feedbacks/feedback-form.md)
+* [Suggestions Form](reports-complaints-and-feedbacks/suggestions-form.md)

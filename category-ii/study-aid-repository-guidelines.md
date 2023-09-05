@@ -1,2 +1,0 @@
-# Study-aid Repository Guidelines
-
