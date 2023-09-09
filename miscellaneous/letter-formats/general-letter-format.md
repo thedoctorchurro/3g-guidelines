@@ -2,7 +2,7 @@
 
 Click the _**copy**_ icon to simply copy the letter format.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ```
 [DATE]

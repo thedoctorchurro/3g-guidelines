@@ -14,7 +14,7 @@ The Peer Recognition Awards will utilize a fair and transparent selection proces
 
 Winners of the Peer Recognition Awards will be honored in a Discord Channel in our server and within the Class Announcement Group Chat, providing a platform to publicly acknowledge their contributions. Each awardee will receive a certificate and, where feasible, additional tokens of appreciation to commemorate their achievements.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

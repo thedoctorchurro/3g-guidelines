@@ -2,7 +2,7 @@
 
 ## General Group Chat
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>BSN 3G Main Group Chat</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>BSN 3G Main Group Chat</p></figcaption></figure>
 
 To ensure a respectful and enjoyable experience for all members, please adhere to the following rules and guidelines:
 
@@ -34,7 +34,7 @@ To ensure a respectful and enjoyable experience for all members, please adhere t
 
 ## Announcement Group Chat Rules
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Announcement Group Chat</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Announcement Group Chat</p></figcaption></figure>
 
 * Only students who have been granted permission are authorized to send any announcement messages in the group chat.
 * Please refrain from engaging in casual conversations within the announcement group chat, as it is intended solely for important matters and messages.

@@ -31,7 +31,6 @@
 ## Discord Server Guidelines
 
 * [Discord Basic Guides](discord-server-guidelines/discord-basic-guides.md)
-* [Discord General Guide](discord-server-guidelines/discord-general-guide.md)
 
 ## Reports, Complaints, & Feedbacks
 

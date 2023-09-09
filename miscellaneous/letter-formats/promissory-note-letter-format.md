@@ -2,7 +2,7 @@
 
 Click the _**copy**_ icon to simply copy the letter format.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 <pre><code>[DATE]
 
@@ -47,7 +47,7 @@ Dean, College of Nursing
 
 ### Example Letter:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Promissory Note Sample</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Promissory Note Sample</p></figcaption></figure>
 
 > When you submit the letter, please make sure to have the Promissory Note slip that can be acquired at the Nursing Faculty Office.
 >
