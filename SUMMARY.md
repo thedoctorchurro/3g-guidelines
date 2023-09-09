@@ -12,6 +12,7 @@
 
 * [Letter Formats](miscellaneous/letter-formats.md)
 * [Study-Aid Repository Guidelines](miscellaneous/study-aid-repository-guidelines.md)
+* [Group Chat Guidelines](miscellaneous/group-chat-guidelines.md)
 * [Peer Recognition Qualifications](miscellaneous/peer-recognition-qualifications.md)
 * [Class Committees Guide](miscellaneous/class-committees-guide.md)
 
