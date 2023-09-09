@@ -43,7 +43,7 @@ Dean, College of Nursing
 
 ### Example Letter:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Make sure to have your signature first before submitting the letter to the Class Adviser, after that, proceed with the respective class/clinical instructor to have it signed.&#x20;
 >
