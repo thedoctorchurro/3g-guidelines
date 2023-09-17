@@ -110,18 +110,55 @@ coverY: -131
 
 **Officers-of-the-Day Respective Leaders:**
 
-* Lumina Leaders&#x20;
-  * <mark style="background-color:red;">**Lumina One - Jefferson Ang**</mark>
-  * <mark style="background-color:red;">**Lumina Two - Dille Marie Derder**</mark>
-* Nexus Leaders&#x20;
-  * <mark style="background-color:red;">**Nexus One - Roger Joshua Atis**</mark>
-  * <mark style="background-color:red;">**Nexus Two - Joyce Angelica Cimacio**</mark>
-* Optima Leaders&#x20;
-  * <mark style="background-color:red;">**Optima One - Josemarialen Quijada**</mark>
-  * <mark style="background-color:red;">**Optima Two - Lyka Armentano**</mark>
-* Pinnacle Leaders&#x20;
-  * <mark style="background-color:red;">**Pinnacle One - Miara Kyna Zea**</mark>
-  * <mark style="background-color:red;">**Pinnacle Two - Samantha Juliet Arreglo**</mark>
-* Vigor Leaders&#x20;
-  * <mark style="background-color:red;">**Vigor One - Kimberly Bontilao**</mark>
-  * <mark style="background-color:red;">**Vigor Two - Princess Juliana Marie Cairo**</mark>
+_<mark style="color:red;">Lumina Leaders</mark>_&#x20;
+
+*   <mark style="background-color:red;">**Lumina One - Jefferson Ang**</mark>
+
+    <figure><img src="../.gitbook/assets/Ang, Jefferson M. (1).JPG" alt="" width="375"><figcaption></figcaption></figure>
+
+
+* <mark style="background-color:red;">**Lumina Two - Dille Marie Derder**</mark>
+
+<figure><img src="../.gitbook/assets/Derder, Dille.jpg" alt="" width="370"><figcaption></figcaption></figure>
+
+_<mark style="color:orange;">**Nexus Leaders**</mark>_&#x20;
+
+* <mark style="background-color:red;">**Nexus One - Roger Joshua Atis**</mark>
+
+<figure><img src="../.gitbook/assets/Atis, Roger Joshua M..JPG" alt="" width="375"><figcaption></figcaption></figure>
+
+* <mark style="background-color:red;">**Nexus Two - Joyce Angelica Cimacio**</mark>
+
+<figure><img src="../.gitbook/assets/Cimacio, Joyce.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+_<mark style="color:blue;">Optima Leaders</mark>_&#x20;
+
+* <mark style="background-color:red;">**Optima One - Josemarialen Quijada**</mark>
+
+
+
+* <mark style="background-color:red;">**Optima Two - Lyka Armentano**</mark>
+
+<figure><img src="../.gitbook/assets/Armentano, Lyka.JPG" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+_<mark style="color:green;">Pinnacle Leaders</mark>_&#x20;
+
+* <mark style="background-color:red;">**Pinnacle One - Miara Kyna Zea Tubo**</mark>
+
+
+
+* <mark style="background-color:red;">**Pinnacle Two - Samantha Juliet Arreglo**</mark>
+
+<figure><img src="../.gitbook/assets/Arreglo, Samantha Juliet.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+_<mark style="color:purple;">Vigor Leaders</mark>_&#x20;
+
+* <mark style="background-color:red;">**Vigor One - Kimberly Bontilao**</mark>
+
+<figure><img src="../.gitbook/assets/Bontilao, Kimberly C.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+* <mark style="background-color:red;">**Vigor Two - Princess Juliana Marie Cairo**</mark>
