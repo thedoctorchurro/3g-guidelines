@@ -105,4 +105,23 @@ coverY: -131
 
     <figure><img src="../.gitbook/assets/TEJAS.jpg" alt="" width="375"><figcaption></figcaption></figure>
 * <mark style="background-color:red;">**Class Muse - Trisha Angeli Laytani**</mark>
-  *
+
+
+
+**Officers-of-the-Day Respective Leaders:**
+
+* Lumina Leaders&#x20;
+  * <mark style="background-color:red;">**Lumina One - Jefferson Ang**</mark>
+  * <mark style="background-color:red;">**Lumina Two - Dille Marie Derder**</mark>
+* Nexus Leaders&#x20;
+  * <mark style="background-color:red;">**Nexus One - Roger Joshua Atis**</mark>
+  * <mark style="background-color:red;">**Nexus Two - Joyce Angelica Cimacio**</mark>
+* Optima Leaders&#x20;
+  * <mark style="background-color:red;">**Optima One - Josemarialen Quijada**</mark>
+  * <mark style="background-color:red;">**Optima Two - Lyka Armentano**</mark>
+* Pinnacle Leaders&#x20;
+  * <mark style="background-color:red;">**Pinnacle One - Miara Kyna Zea**</mark>
+  * <mark style="background-color:red;">**Pinnacle Two - Samantha Juliet Arreglo**</mark>
+* Vigor Leaders&#x20;
+  * <mark style="background-color:red;">**Vigor One - Kimberly Bontilao**</mark>
+  * <mark style="background-color:red;">**Vigor Two - Princess Juliana Marie Cairo**</mark>
