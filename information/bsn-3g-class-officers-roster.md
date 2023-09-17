@@ -106,6 +106,8 @@ coverY: -131
     <figure><img src="../.gitbook/assets/TEJAS.jpg" alt="" width="375"><figcaption></figcaption></figure>
 * <mark style="background-color:red;">**Class Muse - Trisha Angeli Laytani**</mark>
 
+<figure><img src="../.gitbook/assets/Laytani, Trisha.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
 
 
 **Officers-of-the-Day Respective Leaders:**
@@ -149,7 +151,7 @@ _<mark style="color:green;">Pinnacle Leaders</mark>_&#x20;
 
 * <mark style="background-color:red;">**Pinnacle One - Miara Kyna Zea Tubo**</mark>
 
-
+<figure><img src="../.gitbook/assets/Tubo, Miara Kyna Zea.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 * <mark style="background-color:red;">**Pinnacle Two - Samantha Juliet Arreglo**</mark>
 
