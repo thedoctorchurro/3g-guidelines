@@ -162,3 +162,5 @@ _<mark style="color:purple;">Vigor Leaders</mark>_&#x20;
 <figure><img src="../.gitbook/assets/Bontilao, Kimberly C.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 * <mark style="background-color:red;">**Vigor Two - Princess Juliana Marie Cairo**</mark>
+
+<figure><img src="../.gitbook/assets/Cairo, Princess.jpeg" alt="" width="375"><figcaption></figcaption></figure>
