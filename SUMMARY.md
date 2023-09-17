@@ -23,6 +23,7 @@
   * [Extension Request Letter Format](miscellaneous/letter-formats/extension-request-letter-format.md)
   * [General Letter Format](miscellaneous/letter-formats/general-letter-format.md)
   * [Clinical Instructor Names and Suffixes](miscellaneous/letter-formats/clinical-instructor-names-and-suffixes.md)
+* [Course EDP Codes](miscellaneous/course-edp-codes.md)
 * [Study-Aid Repository Guidelines](miscellaneous/study-aid-repository-guidelines.md)
 * [Group Chat Guidelines](miscellaneous/group-chat-guidelines.md)
 * [Peer Recognition Qualifications](miscellaneous/peer-recognition-qualifications.md)
