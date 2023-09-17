@@ -137,7 +137,7 @@ _<mark style="color:blue;">Optima Leaders</mark>_&#x20;
 
 * <mark style="background-color:red;">**Optima One - Josemarialen Quijada**</mark>
 
-
+<figure><img src="../.gitbook/assets/Quijada, Josemarialen.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 * <mark style="background-color:red;">**Optima Two - Lyka Armentano**</mark>
 
