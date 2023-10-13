@@ -39,6 +39,7 @@
 * [Feedback Form](reports-complaints-and-feedbacks/feedback-form.md)
 * [Suggestions Form](reports-complaints-and-feedbacks/suggestions-form.md)
 * [Commendation Form](reports-complaints-and-feedbacks/commendation-form.md)
+* [Strike Appeal Form](reports-complaints-and-feedbacks/strike-appeal-form.md)
 
 ***
 
