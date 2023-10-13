@@ -1,6 +1,8 @@
 # 3-Strike Policy
 
-Strikes remain in effect indefinitely once they are issued and must be addressed promptly.
+~~Strikes remain in effect indefinitely once they are issued and must be addressed promptly.~~
+
+Strikes may now be appealed via [Strike Appeal Form.](../../reports-complaints-and-feedbacks/strike-appeal-form.md)
 
 For those who are part of the miscellaneous team, there is a possibility of being summoned for a conference at the discretion of any Vice Presidents, President, or the Class Adviser. This action may be taken in the event of a severe violation that raises concerns about the violator's fitness to continue their duties or hold their position within the class officers.
 
