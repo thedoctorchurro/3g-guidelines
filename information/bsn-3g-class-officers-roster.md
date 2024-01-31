@@ -22,7 +22,7 @@
 
 <mark style="color:blue;">**Internal Vice President:**</mark> Assists the President in their duties and takes over in their absence.
 
-*   <mark style="background-color:red;">**Class External Vice President -**</mark>&#x20;
+*   <mark style="background-color:red;">**Class External Vice President - Shanne Kyzel Abella**</mark>
 
 
 
