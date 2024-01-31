@@ -10,7 +10,7 @@
 
 
 
-<mark style="color:blue;">**External Vice President:**</mark> Manages external relationships, such as collaborating with other sections or student organizations.
+<mark style="color:blue;">**Internal Vice President:**</mark> Assists the President in their duties and takes over in their absence.
 
 *   <mark style="background-color:red;">**Class Internal Vice President - Larisa Wynona Regina Aguanta**</mark>
 
@@ -20,7 +20,7 @@
 
 
 
-<mark style="color:blue;">**Internal Vice President:**</mark> Assists the President in their duties and takes over in their absence.
+<mark style="color:blue;">**External Vice President:**</mark> Manages external relationships, such as collaborating with other sections or student organizations.
 
 *   <mark style="background-color:red;">**Class External Vice President - Shanne Kyzel Abella**</mark>
 
