@@ -40,7 +40,7 @@
 
 
 
-<mark style="color:blue;">**Treasurer:**</mark> Manages class funds and budgets, keeps accurate financial records.
+<mark style="color:blue;">**Treasurer:**</mark> Manages class funds and budgets, and keeps accurate financial records.
 
 *   <mark style="background-color:red;">**Class Treasurer - Jefferson Ang**</mark>
 
@@ -90,55 +90,29 @@
 
 
 
-
-
-
-
 **Officers-of-the-Day Respective Leaders:**
 
 _<mark style="color:red;">Lumina Leaders</mark>_&#x20;
 
-*   <mark style="background-color:red;">**Lumina One - (OPEN)**</mark>
-
-
-* <mark style="background-color:red;">**Lumina Two - Dille Marie Derder**</mark>
-
-<figure><img src="../.gitbook/assets/Derder, Dille.jpg" alt="" width="370"><figcaption></figcaption></figure>
+> * <mark style="background-color:red;">**Atis, Roger Joshua**</mark>
+> * <mark style="background-color:red;">**Yu, Beatrice Mae**</mark>
 
 _<mark style="color:orange;">**Nexus Leaders**</mark>_&#x20;
 
-* <mark style="background-color:red;">**Nexus One - (OPEN)**</mark>
-* <mark style="background-color:red;">**Nexus Two - Joyce Angelica Cimacio**</mark>
-
-<figure><img src="../.gitbook/assets/Cimacio, Joyce.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-
+> * <mark style="background-color:red;">**Quijada, Josemarialen**</mark>
+> * <mark style="background-color:red;">**Villarampa, Angel Franz**</mark>
 
 _<mark style="color:blue;">Optima Leaders</mark>_&#x20;
 
-* <mark style="background-color:red;">**Optima One - (OPEN)**</mark>
-* <mark style="background-color:red;">**Optima Two - Lyka Armentano**</mark>
-
-<figure><img src="../.gitbook/assets/Armentano, Lyka.JPG" alt="" width="375"><figcaption></figcaption></figure>
-
-
+> * <mark style="background-color:red;">**Apuya, Julia**</mark>
+> * <mark style="background-color:red;">**Arcilla, Keith Clarence**</mark>
 
 _<mark style="color:green;">Pinnacle Leaders</mark>_&#x20;
 
-* <mark style="background-color:red;">**Pinnacle One - Miara Kyna Zea Tubo**</mark>
-
-<figure><img src="../.gitbook/assets/Tubo, Miara Kyna Zea.JPG" alt="" width="375"><figcaption></figcaption></figure>
-
-* <mark style="background-color:red;">**Pinnacle Two - Samantha Juliet Arreglo**</mark>
-
-<figure><img src="../.gitbook/assets/Arreglo, Samantha Juliet.jpg" alt="" width="375"><figcaption></figcaption></figure>
+> * <mark style="background-color:red;">**Abella, Shanne Kyzel**</mark>
+> * <mark style="background-color:red;">**Ang, Jefferson**</mark>
 
 _<mark style="color:purple;">Vigor Leaders</mark>_&#x20;
 
-* <mark style="background-color:red;">**Vigor One - Kimberly Bontilao**</mark>
-
-<figure><img src="../.gitbook/assets/Bontilao, Kimberly C.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-* <mark style="background-color:red;">**Vigor Two - Princess Juliana Marie Cairo**</mark>
-
-<figure><img src="../.gitbook/assets/Cairo, Princess.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+> * <mark style="background-color:red;">**Aguanta, Larisa Regina Wynona**</mark>
+> * <mark style="background-color:red;">**Amba, Mary Grace**</mark>
